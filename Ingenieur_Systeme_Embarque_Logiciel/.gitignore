@@ -1,0 +1,18 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Éditeurs / IDE (optionnel : décommenter si vous ne voulez pas les versionner)
+# .vscode/
+# .idea/
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*.log
+
+# Fichier sans extension (ex. "Untitled") souvent créé par erreur
+/01-fondements/cours/03-temps-reel/Untitled
