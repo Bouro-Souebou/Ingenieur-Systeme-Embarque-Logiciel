@@ -19,3 +19,7 @@ Projets complets : architecture logicielle, tests, débogage, intégration et bo
 ## Objectif
 
 Être capable de concevoir, documenter, tester et maintenir un système embarqué de bout en bout.
+
+---
+
+**Commencer par** : [5.1 – Architecture logicielle embarquée](cours/01-architecture-logicielle.md)

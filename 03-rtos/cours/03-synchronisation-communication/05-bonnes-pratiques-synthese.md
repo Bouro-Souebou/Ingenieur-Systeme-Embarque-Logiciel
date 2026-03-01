@@ -56,4 +56,5 @@ Avec le RTOS, tu peux structurer l'application en **tâches** (acquisition, comm
 ---
 
 **Fin du cours Synchronisation et communication.**  
-Retour à la [vue d'ensemble](README.md) ou passage au module **04 – Périphériques**.
+Retour à la [vue d'ensemble](README.md) du module RTOS ou au [README principal](../../README.md) du parcours.  
+→ **Module suivant** : [04 – Périphériques](../../../04-peripheriques/README.md).

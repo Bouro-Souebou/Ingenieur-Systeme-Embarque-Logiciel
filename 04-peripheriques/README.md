@@ -24,3 +24,7 @@ Les cours se trouvent dans le dossier **[cours/](cours/)**. Chaque thème est d�
 ## Prérequis
 
 Modules **02** et **03** (MCU + RTOS). Connaissances de base en électronique (niveaux logiques, pull-up/pull-down).
+
+---
+
+**Commencer par** : [01 – UART](cours/01-uart/README.md)

@@ -58,4 +58,5 @@ Avec les **interruptions**, tu peux réagir à des événements (bouton, UART, t
 ---
 
 **Fin du cours Startup, reset et vecteurs d’interruption.**  
-Retour à la [vue d’ensemble](README.md) ou passage au module **03 – RTOS** pour les tâches et la synchronisation.
+Retour à la [vue d’ensemble](README.md) du module Microcontrôleurs ou au [README principal](../../README.md) du parcours.  
+→ **Module suivant** : [03 – RTOS](../../../03-rtos/README.md).

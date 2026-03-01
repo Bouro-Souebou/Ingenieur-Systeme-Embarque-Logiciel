@@ -25,3 +25,7 @@ Pour comprendre **comment passer du code à la carte** (compilation, édition de
 ## Cible type
 
 STM32 (Nucleo, Discovery) ou tout MCU ARM Cortex-M (LPC, Nordic, etc.). Les exemples utilisent la nomenclature CMSIS/STM32 quand c'est pertinent.
+
+---
+
+**Commencer par** : [01 – Architecture ARM Cortex-M](cours/01-architecture-cortex-m/README.md)

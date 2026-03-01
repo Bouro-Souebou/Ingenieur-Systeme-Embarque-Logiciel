@@ -62,4 +62,5 @@ Avec les **Fondements** (C embarqué, bus, temps réel), tu as les bases pour ab
 ---
 
 **Fin du cours Temps réel et contraintes.**  
-Retour à la [vue d'ensemble](README.md) du module Fondements ou au [README principal](../../README.md) du parcours.
+Retour à la [vue d'ensemble](README.md) du module Fondements ou au [README principal](../../README.md) du parcours.  
+→ **Module suivant** : [02 – Microcontrôleurs](../../../02-microcontroleurs/README.md).

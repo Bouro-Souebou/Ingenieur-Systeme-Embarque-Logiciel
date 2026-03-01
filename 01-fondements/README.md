@@ -25,3 +25,7 @@ Les cours se trouvent dans le dossier **[cours/](cours/)**. Chaque thème est d�
 1. **C pour l'embarqué** (toutes les leçons) → puis exercices C dans `tp/`.
 2. **Bus et protocoles** → schémas, timing, choix du protocole.
 3. **Temps réel** → avant ou en parallèle du module Microcontrôleurs (interruptions, ISR).
+
+---
+
+**Commencer par** : [01 – C pour l'embarqué](cours/01-c-embarque/README.md)

@@ -47,4 +47,5 @@
 
 ---
 
-**Fin du parcours cours.** Revenir au [README principal](../../README.md) ou aux [projets avancés](../README.md).
+**Fin du parcours cours.**  
+Retour au [README du module Projets avancés](../README.md) ou à la [vue d'ensemble du parcours](../../README.md).

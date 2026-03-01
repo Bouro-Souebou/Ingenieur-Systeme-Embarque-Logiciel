@@ -23,3 +23,7 @@ Les cours se trouvent dans le dossier **[cours/](cours/)**. Chaque thème est d�
 ## Prérequis
 
 Avoir validé le module **02 – Microcontrôleurs** (interruptions, registres, startup).
+
+---
+
+**Commencer par** : [01 – Concepts RTOS et FreeRTOS](cours/01-concepts-rtos-freertos/README.md)
