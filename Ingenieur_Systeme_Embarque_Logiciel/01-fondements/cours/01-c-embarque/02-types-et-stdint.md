@@ -125,4 +125,10 @@ Nous reviendrons sur les décalages dans la leçon « Accès aux bits ».
 
 ---
 
+## Tester sa compréhension
+
+→ [**Scénarios – Types et stdint**](scenarios/types-stdint.md) · → [**Éléments de réponse**](reponses/types-stdint.md)
+
+---
+
 **Suite** : [Leçon 3 – Le qualificateur volatile](03-volatile.md)

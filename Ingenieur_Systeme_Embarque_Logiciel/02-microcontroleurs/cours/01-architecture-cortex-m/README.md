@@ -35,4 +35,8 @@ Ce sous-dossier contient le cours **Architecture ARM Cortex-M**, découpé en le
 
 ---
 
+**Tester sa compréhension** : [Scénarios](scenarios/README.md) et [Réponses](reponses/README.md).
+
+---
+
 **Commencer par** : [01 – Vue d'ensemble du Cortex-M](01-vue-ensemble.md)

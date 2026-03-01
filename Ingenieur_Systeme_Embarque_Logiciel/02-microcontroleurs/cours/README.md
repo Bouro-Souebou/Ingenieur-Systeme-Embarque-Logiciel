@@ -20,7 +20,7 @@ Les cours du module **02 – Microcontrôleurs** sont organisés en **sous-dossi
 2. **Modèle programme et registres** → accéder aux périphériques (GPIO en particulier).
 3. **Startup et interruptions** → démarrage du MCU et mise en œuvre des ISR.
 
-Chaque sous-dossier contient un **README** (vue d'ensemble, objectifs, ordre des leçons) et des fichiers **.md** numérotés à lire dans l'ordre.
+Chaque sous-dossier contient un **README** (vue d'ensemble, objectifs, ordre des leçons), des fichiers **.md** numérotés à lire dans l'ordre, et des dossiers **scenarios/** et **reponses/** pour tester sa compréhension (voir le README de chaque cours).
 
 ---
 

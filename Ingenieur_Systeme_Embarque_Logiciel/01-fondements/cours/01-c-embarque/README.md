@@ -45,4 +45,8 @@ Environ **3 à 4 heures** de lecture et d'exercices pour couvrir l'ensemble. Les
 
 ---
 
+**Tester sa compréhension** : [Scénarios](scenarios/README.md) (types, volatile, stack/heap) et [Réponses](reponses/README.md).
+
+---
+
 **Commencer par** : [01 – Pourquoi le C en embarqué ?](01-pourquoi-le-c.md)

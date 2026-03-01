@@ -2,8 +2,8 @@
 
 Ce dossier contient les **questions et scénarios** pour tester la compréhension du cours C pour l'embarqué. Les **éléments de réponse** (analyse, solution, pièges) sont dans le dossier [../reponses/](../reponses/).
 
-| Thème | Scénario | Éléments de réponse |
-|-------|----------|---------------------|
-| *À compléter* | *(ex. volatile, stack/heap, types)* | *(ex. ../reponses/volatile.md)* |
-
-*Même structure que dans le cours [03-temps-reel](../../03-temps-reel/scenarios/README.md) : un fichier par thème dans `scenarios/`, le corrigé correspondant dans `reponses/`.*
+| Leçon | Thème | Scénario | Éléments de réponse |
+|-------|-------|----------|---------------------|
+| 2 | Types et stdint.h | [types-stdint.md](types-stdint.md) | [../reponses/types-stdint.md](../reponses/types-stdint.md) |
+| 3 | Le qualificateur volatile | [volatile.md](volatile.md) | [../reponses/volatile.md](../reponses/volatile.md) |
+| 6 | Const, static et mémoire (stack/heap) | [stack-heap.md](stack-heap.md) | [../reponses/stack-heap.md](../reponses/stack-heap.md) |

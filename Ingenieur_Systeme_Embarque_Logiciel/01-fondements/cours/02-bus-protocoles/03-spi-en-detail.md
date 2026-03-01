@@ -81,4 +81,10 @@ Cela donne **4 modes** (0, 1, 2, 3). Le **maître et l'esclave doivent être dan
 
 ---
 
+## Tester sa compréhension
+
+→ [**Scénarios – SPI et I2C**](scenarios/spi-i2c.md) (section SPI) · → [**Éléments de réponse**](reponses/spi-i2c.md)
+
+---
+
 **Suite** : [Leçon 4 – I2C en détail](04-i2c-en-detail.md)

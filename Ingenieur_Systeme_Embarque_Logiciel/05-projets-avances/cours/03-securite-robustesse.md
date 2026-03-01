@@ -41,4 +41,10 @@
 
 ---
 
+## Tester sa compréhension
+
+- **Scénarios** : [scenarios/robustesse-securite.md](scenarios/robustesse-securite.md) · **Réponses** : [reponses/robustesse-securite.md](reponses/robustesse-securite.md).
+
+---
+
 **Fin du parcours cours.** Revenir au [README principal](../../README.md) ou aux [projets avancés](../README.md).

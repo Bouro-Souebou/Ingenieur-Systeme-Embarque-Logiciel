@@ -69,5 +69,12 @@ Dans un même projet (ou un même module), choisir un **style** cohérent :
 
 ---
 
+## Tester sa compréhension
+
+- **Scénarios** (registres, GPIO, horloge, IDR/ODR) : [scenarios/registres-gpio.md](scenarios/registres-gpio.md).
+- **Éléments de réponse** : [reponses/registres-gpio.md](reponses/registres-gpio.md).
+
+---
+
 **Fin du cours Modèle programme et registres.**  
 Retour à la [vue d'ensemble](README.md) ou passage au cours [Startup, reset et vecteurs d'interruption](../../03-startup-interruptions/README.md).

@@ -34,4 +34,8 @@ Ce sous-dossier contient le cours **Startup, reset et vecteurs d'interruption** 
 
 ---
 
+**Tester sa compréhension** : [Scénarios](scenarios/README.md) et [Réponses](reponses/README.md).
+
+---
+
 **Commencer par** : [01 – Séquence au reset](01-sequence-reset.md)

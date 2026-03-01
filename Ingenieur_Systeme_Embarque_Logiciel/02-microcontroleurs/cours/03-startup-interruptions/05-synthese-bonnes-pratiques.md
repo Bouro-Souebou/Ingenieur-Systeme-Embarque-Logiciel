@@ -50,5 +50,12 @@ Avec les **interruptions**, tu peux réagir à des événements (bouton, UART, t
 
 ---
 
+## Tester sa compréhension
+
+- **Scénarios** (NVIC, ISR, table des vecteurs, HardFault) : [scenarios/isr-activation.md](scenarios/isr-activation.md).
+- **Éléments de réponse** : [reponses/isr-activation.md](reponses/isr-activation.md).
+
+---
+
 **Fin du cours Startup, reset et vecteurs d’interruption.**  
 Retour à la [vue d’ensemble](README.md) ou passage au module **03 – RTOS** pour les tâches et la synchronisation.

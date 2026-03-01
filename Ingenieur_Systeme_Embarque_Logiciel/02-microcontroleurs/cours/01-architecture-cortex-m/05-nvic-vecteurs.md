@@ -71,5 +71,11 @@ Comme vu dans le module **Temps réel** : le **handler** (ISR) doit être **cour
 
 ---
 
+## Tester sa compréhension
+
+- **Scénarios** : [scenarios/README.md](scenarios/README.md) · **Réponses** : [reponses/README.md](reponses/README.md).
+
+---
+
 **Fin du cours Architecture Cortex-M.**  
 Retour à la [vue d'ensemble](README.md) ou passage au cours [Modèle programme et registres](../../02-modele-programme-registres/README.md).

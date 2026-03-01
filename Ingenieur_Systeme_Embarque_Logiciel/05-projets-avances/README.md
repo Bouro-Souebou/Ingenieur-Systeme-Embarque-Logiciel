@@ -7,6 +7,7 @@ Projets complets : architecture logicielle, tests, débogage, intégration et bo
 - [Cours 5.1 – Architecture logicielle embarquée](cours/01-architecture-logicielle.md)
 - [Cours 5.2 – Tests, débogage et outillage](cours/02-tests-debogage.md)
 - [Cours 5.3 – Sécurité, robustesse et maintenabilité](cours/03-securite-robustesse.md)
+- **Scénarios et réponses** : [cours/scenarios/](cours/scenarios/README.md) · [cours/reponses/](cours/reponses/README.md)
 
 ## Projets proposés
 

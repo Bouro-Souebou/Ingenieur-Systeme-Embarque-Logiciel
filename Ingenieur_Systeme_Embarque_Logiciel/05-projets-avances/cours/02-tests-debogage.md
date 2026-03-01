@@ -49,4 +49,10 @@
 
 ---
 
+## Tester sa compréhension
+
+- **Scénarios** : [scenarios/tests-debogage.md](scenarios/tests-debogage.md) · **Réponses** : [reponses/tests-debogage.md](reponses/tests-debogage.md).
+
+---
+
 **Suite** : [5.3 – Sécurité, robustesse et maintenabilité](03-securite-robustesse.md)

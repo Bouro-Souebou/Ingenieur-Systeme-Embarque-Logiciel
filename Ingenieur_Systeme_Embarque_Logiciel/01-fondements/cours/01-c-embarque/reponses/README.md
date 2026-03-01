@@ -4,6 +4,6 @@ Ce dossier contient les **analyses, solutions et pièges** associés aux [scéna
 
 | Fichier | Correspond au scénario |
 |---------|-------------------------|
-| *À compléter* | *(ex. ../scenarios/volatile.md)* |
-
-*À compléter en parallèle des nouveaux scénarios.*
+| [types-stdint.md](types-stdint.md) | [scenarios/types-stdint.md](../scenarios/types-stdint.md) |
+| [volatile.md](volatile.md) | [scenarios/volatile.md](../scenarios/volatile.md) |
+| [stack-heap.md](stack-heap.md) | [scenarios/stack-heap.md](../scenarios/stack-heap.md) |

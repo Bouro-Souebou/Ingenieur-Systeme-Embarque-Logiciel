@@ -35,4 +35,8 @@ Ce sous-dossier contient le cours **Bus et protocoles numériques**, découpé e
 
 ---
 
+**Tester sa compréhension** : [Scénarios](scenarios/README.md) (UART, SPI/I2C, comparaison) et [Réponses](reponses/README.md).
+
+---
+
 **Commencer par** : [01 – Communication série : notions de base](01-communication-serie.md)

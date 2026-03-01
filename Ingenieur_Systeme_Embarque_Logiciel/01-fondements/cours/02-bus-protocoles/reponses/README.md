@@ -4,6 +4,6 @@ Ce dossier contient les **analyses, solutions et pièges** associés aux [scéna
 
 | Fichier | Correspond au scénario |
 |---------|-------------------------|
-| *À compléter* | *(ex. ../scenarios/uart.md)* |
-
-*À compléter en parallèle des nouveaux scénarios.*
+| [uart.md](uart.md) | [scenarios/uart.md](../scenarios/uart.md) |
+| [spi-i2c.md](spi-i2c.md) | [scenarios/spi-i2c.md](../scenarios/spi-i2c.md) |
+| [comparaison-choix.md](comparaison-choix.md) | [scenarios/comparaison-choix.md](../scenarios/comparaison-choix.md) |

@@ -151,4 +151,10 @@ En résumé : pour un système qui doit tourner **plusieurs jours ou en continu*
 
 ---
 
+## Tester sa compréhension
+
+→ [**Scénarios – Stack et heap**](scenarios/stack-heap.md) · → [**Éléments de réponse**](reponses/stack-heap.md)
+
+---
+
 **Suite** : [Leçon 7 – Pièges et bonnes pratiques](07-pieges-et-bonnes-pratiques.md)

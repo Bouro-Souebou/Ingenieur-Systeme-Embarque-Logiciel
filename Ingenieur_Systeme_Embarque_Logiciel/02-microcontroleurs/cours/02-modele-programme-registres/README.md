@@ -35,4 +35,8 @@ Ce sous-dossier contient le cours **Modèle programme et registres** : accès au
 
 ---
 
+**Tester sa compréhension** : [Scénarios](scenarios/README.md) et [Réponses](reponses/README.md).
+
+---
+
 **Commencer par** : [01 – Accès aux registres en C](01-acces-registres-c.md)

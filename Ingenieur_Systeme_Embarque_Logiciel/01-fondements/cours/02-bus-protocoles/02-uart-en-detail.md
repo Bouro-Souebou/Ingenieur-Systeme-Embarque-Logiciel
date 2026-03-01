@@ -81,4 +81,10 @@ Sur une carte de développement, une puce **USB-série** (ex. CP2102, FT232) fai
 
 ---
 
+## Tester sa compréhension
+
+→ [**Scénarios – UART**](scenarios/uart.md) · → [**Éléments de réponse**](reponses/uart.md)
+
+---
+
 **Suite** : [Leçon 3 – SPI en détail](03-spi-en-detail.md)

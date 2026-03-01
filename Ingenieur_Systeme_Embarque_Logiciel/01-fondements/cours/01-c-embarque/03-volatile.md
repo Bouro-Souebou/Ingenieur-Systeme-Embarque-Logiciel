@@ -128,4 +128,10 @@ REG_ACCES |= (1u << 0);
 
 ---
 
+## Tester sa compréhension
+
+→ [**Scénarios – volatile**](scenarios/volatile.md) · → [**Éléments de réponse**](reponses/volatile.md)
+
+---
+
 **Suite** : [Leçon 4 – Accès aux bits et aux champs](04-acces-bits.md)

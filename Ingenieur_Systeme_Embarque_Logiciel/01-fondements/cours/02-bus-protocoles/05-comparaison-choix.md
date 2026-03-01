@@ -71,5 +71,11 @@ Savoir **comparer** UART, SPI et I2C et **choisir** le protocole adapté à une 
 
 ---
 
+## Tester sa compréhension
+
+→ [**Scénarios – Comparaison et choix**](scenarios/comparaison-choix.md) · → [**Éléments de réponse**](reponses/comparaison-choix.md)
+
+---
+
 **Fin du cours Bus et protocoles.**  
 Retour à la [vue d'ensemble](README.md) ou passage au cours [Temps réel et contraintes](../03-temps-reel/README.md).

@@ -75,4 +75,10 @@ Chaque esclave a une **adresse** sur **7 bits** (ou 10 bits en mode étendu). L'
 
 ---
 
+## Tester sa compréhension
+
+→ [**Scénarios – SPI et I2C**](scenarios/spi-i2c.md) (section I2C) · → [**Éléments de réponse**](reponses/spi-i2c.md)
+
+---
+
 **Suite** : [Leçon 5 – Comparaison et choix](05-comparaison-choix.md)

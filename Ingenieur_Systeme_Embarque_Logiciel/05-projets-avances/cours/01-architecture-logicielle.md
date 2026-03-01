@@ -49,4 +49,10 @@
 
 ---
 
+## Tester sa compréhension
+
+- **Scénarios** : [scenarios/architecture.md](scenarios/architecture.md) · **Réponses** : [reponses/architecture.md](reponses/architecture.md).
+
+---
+
 **Suite** : [5.2 – Tests, débogage et outillage](02-tests-debogage.md)
