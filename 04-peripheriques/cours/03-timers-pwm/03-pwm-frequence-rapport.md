@@ -22,4 +22,12 @@ Chaque **canal** du timer (CH1, CH2, …) peut être connecté à une **broche**
 - **Moteur DC** : rapport cyclique = rapport tension moyenne (avec pont en H).
 - **Servo** : impulsion 1–2 ms à 50 Hz (période 20 ms) ; la largeur d'impulsion commande l'angle.
 
+---
+
+## Tester sa compréhension
+
+→ [Scénario – PWM : fréquence et rapport cyclique](scenarios/03-pwm-frequence-rapport.md) · [Réponse](reponses/03-pwm-frequence-rapport.md)
+
+---
+
 **Suite** : [Leçon 4 – Input capture](04-input-capture.md)

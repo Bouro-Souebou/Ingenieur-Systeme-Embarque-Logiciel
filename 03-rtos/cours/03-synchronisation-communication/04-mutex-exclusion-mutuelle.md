@@ -65,4 +65,10 @@ En général, on **ne prend pas** un mutex dans une **ISR** (Take peut bloquer, 
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Mutex](scenarios/04-mutex.md) · [Réponse](reponses/04-mutex.md)
+
+---
+
 **Suite** : [Leçon 5 – Bonnes pratiques et synthèse](05-bonnes-pratiques-synthese.md)

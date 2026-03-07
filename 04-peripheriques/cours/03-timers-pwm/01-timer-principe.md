@@ -24,4 +24,12 @@ Le timer peut **comparer** la valeur courante du compteur à une (ou plusieurs) 
 - **Overflow** = fin de cycle ; **comparaison** = égalité avec CCR → événement ou sortie.
 - Utilisé pour : **tick** (SysTick), **PWM** (comparaison avec CCR), **capture** (enregistrer le compteur sur un front d'entrée).
 
+---
+
+## Tester sa compréhension
+
+→ [Scénario – Timer : principe](scenarios/01-timer-principe.md) · [Réponse](reponses/01-timer-principe.md)
+
+---
+
 **Suite** : [Leçon 2 – SysTick](02-systick.md)

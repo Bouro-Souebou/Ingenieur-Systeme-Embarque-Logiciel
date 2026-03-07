@@ -35,4 +35,8 @@ Ce sous-dossier contient le cours **Tâches et ordonnancement** : création et c
 
 ---
 
+**Tester sa compréhension** : [Scénarios](scenarios/README.md) et [Réponses](reponses/README.md).
+
+---
+
 **Commencer par** : [01 – Création de tâches (xTaskCreate)](01-creation-taches.md)

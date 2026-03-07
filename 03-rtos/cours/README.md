@@ -20,7 +20,7 @@ Les cours du module **03 – RTOS** sont organisés en **sous-dossiers** : chaqu
 2. **Tâches et ordonnancement** → créer des tâches, états, délais, priorité, stack.
 3. **Synchronisation et communication** → queues, sémaphores, mutex, et usage depuis les ISR.
 
-Chaque sous-dossier contient un **README** (vue d'ensemble, objectifs, ordre des leçons) et des fichiers **.md** numérotés à lire dans l'ordre.
+Chaque sous-dossier contient un **README** (vue d'ensemble, objectifs, ordre des leçons), des fichiers **.md** numérotés à lire dans l'ordre, et des dossiers **scenarios/** et **reponses/** pour tester sa compréhension.
 
 ---
 

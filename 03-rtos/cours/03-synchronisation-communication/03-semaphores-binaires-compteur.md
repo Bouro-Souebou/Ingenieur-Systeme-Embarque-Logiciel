@@ -69,4 +69,10 @@ SemaphoreHandle_t xSemaphoreCreateCounting(UBaseType_t uxMaxCount, UBaseType_t u
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Sémaphores](scenarios/03-semaphores.md) · [Réponse](reponses/03-semaphores.md)
+
+---
+
 **Suite** : [Leçon 4 – Mutex : exclusion mutuelle](04-mutex-exclusion-mutuelle.md)

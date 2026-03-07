@@ -57,4 +57,10 @@ Nous détaillerons le NVIC dans la leçon 5.
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Vue d'ensemble](scenarios/01-vue-ensemble.md) · [Réponse](reponses/01-vue-ensemble.md)
+
+---
+
 **Suite** : [Leçon 2 – Familles Cortex-M](02-familles-cortex-m.md)

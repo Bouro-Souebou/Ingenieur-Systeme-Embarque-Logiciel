@@ -70,4 +70,10 @@ Le **temps entre deux débuts** d'exécution de `do_work()` est **10 ms + temps 
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – vTaskDelay et tick](scenarios/03-vtaskdelay-tick.md) · [Réponse](reponses/03-vtaskdelay-tick.md)
+
+---
+
 **Suite** : [Leçon 4 – Priorités et inversion de priorité](04-priorites-inversion.md)

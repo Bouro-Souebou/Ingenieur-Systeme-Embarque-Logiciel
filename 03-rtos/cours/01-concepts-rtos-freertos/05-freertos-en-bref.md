@@ -52,5 +52,11 @@ Si vTaskStartScheduler() retourne (manque de heap pour la tâche idle, ou erreur
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – FreeRTOS en bref](scenarios/05-freertos-en-bref.md) · [Réponse](reponses/05-freertos-en-bref.md)
+
+---
+
 **Fin du cours Concepts RTOS et FreeRTOS.**  
 Retour à la [vue d'ensemble](README.md) ou passage au cours [Tâches et ordonnancement](../../02-taches-ordonnancement/README.md).

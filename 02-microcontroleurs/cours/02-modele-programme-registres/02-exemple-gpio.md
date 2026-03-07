@@ -76,4 +76,10 @@ Aucune lecture de ODR ; pas de race condition avec une ISR qui modifierait ODR.
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Registres et GPIO](scenarios/registres-gpio.md) · [Réponse](reponses/registres-gpio.md)
+
+---
+
 **Suite** : [Leçon 3 – Configurer une broche en sortie](03-configurer-sortie.md)

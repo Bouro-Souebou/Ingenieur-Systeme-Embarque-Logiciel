@@ -63,4 +63,10 @@ Ne **pas supprimer** les vecteurs obligatoires (Reset, NMI, HardFault, etc.) ni 
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Le fichier startup](scenarios/02-fichier-startup.md) · [Réponse](reponses/02-fichier-startup.md)
+
+---
+
 **Suite** : [Leçon 3 – Déclarer et implémenter une ISR](03-declarer-implementer-isr.md)

@@ -71,8 +71,7 @@ Dans un même projet (ou un même module), choisir un **style** cohérent :
 
 ## Tester sa compréhension
 
-- **Scénarios** (registres, GPIO, horloge, IDR/ODR) : [scenarios/registres-gpio.md](scenarios/registres-gpio.md).
-- **Éléments de réponse** : [reponses/registres-gpio.md](reponses/registres-gpio.md).
+→ [Scénario – Champs et bonnes pratiques](scenarios/05-champs-bonnes-pratiques.md) · [Réponse](reponses/05-champs-bonnes-pratiques.md)
 
 ---
 

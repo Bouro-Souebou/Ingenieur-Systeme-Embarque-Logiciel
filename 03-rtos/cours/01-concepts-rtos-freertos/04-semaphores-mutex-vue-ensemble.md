@@ -45,4 +45,10 @@ Cela évite les **race conditions** : deux tâches qui modifient la même variab
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Sémaphores et mutex](scenarios/04-semaphores-mutex.md) · [Réponse](reponses/04-semaphores-mutex.md)
+
+---
+
 **Suite** : [Leçon 5 – FreeRTOS en bref](05-freertos-en-bref.md)

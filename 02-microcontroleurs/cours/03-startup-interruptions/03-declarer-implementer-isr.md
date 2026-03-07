@@ -76,4 +76,10 @@ Si un traitement lourd est nécessaire, l’ISR se contente de **signaler** (fla
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Déclarer et implémenter une ISR](scenarios/03-declarer-implementer-isr.md) · [Réponse](reponses/03-declarer-implementer-isr.md)
+
+---
+
 **Suite** : [Leçon 4 – Activer une interruption](04-activer-interruption.md)

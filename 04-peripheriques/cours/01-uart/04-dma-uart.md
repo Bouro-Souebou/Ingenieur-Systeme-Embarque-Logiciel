@@ -43,4 +43,10 @@ Pour le **RX** : deux buffers A et B. Le DMA remplit A ; à **mi-parcours** (ou 
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – DMA avec UART](scenarios/04-dma-uart.md) · [Réponse](reponses/04-dma-uart.md)
+
+---
+
 **Suite** : [Leçon 5 – Intégration RTOS](05-integration-rtos.md)

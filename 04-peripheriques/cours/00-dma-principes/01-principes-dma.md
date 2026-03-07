@@ -68,4 +68,10 @@ Les **zones mémoire** modifiées par le DMA (buffers en RAM) sont lues ou écri
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Principes du DMA](scenarios/01-principes-dma.md) · [Réponse](reponses/01-principes-dma.md)
+
+---
+
 **Suite** : appliquer ces principes dans [DMA avec UART](../01-uart/04-dma-uart.md) ou [DMA avec ADC](../04-adc-dma/04-dma-adc.md).

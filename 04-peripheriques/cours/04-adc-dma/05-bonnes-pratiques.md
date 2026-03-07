@@ -23,6 +23,14 @@ Le **datasheet** ADC indique le **temps d'échantillonnage** minimum pour une pr
 - **DMA** : transfert DR → buffer RAM ; interruption fin (ou demi-) de buffer pour traitement.
 - **Timer + ADC + DMA** : acquisitions **périodiques** sans charge CPU ; double buffering pour ne pas perdre d'échantillons.
 
+---
+
+## Tester sa compréhension
+
+→ [Scénario – Bonnes pratiques](scenarios/05-bonnes-pratiques.md) · [Réponse](reponses/05-bonnes-pratiques.md)
+
+---
+
 **Fin du cours ADC et DMA.**  
 Retour à la [vue d'ensemble](README.md) du module Périphériques ou au [README principal](../../README.md) du parcours.  
 → **Module suivant** : [05 – Projets avancés](../../../05-projets-avances/README.md).

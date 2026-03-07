@@ -45,4 +45,10 @@ Une tâche ne doit **pas** prendre le **même** mutex **deux fois** sans l'avoir
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Priorités et inversion](scenarios/04-priorites-inversion.md) · [Réponse](reponses/04-priorites-inversion.md)
+
+---
+
 **Suite** : [Leçon 5 – Dimensionnement de la stack](05-dimensionnement-stack.md)

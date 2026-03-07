@@ -63,4 +63,10 @@ Nous détaillerons la création (xTaskCreate), les états (Running, Ready, Block
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Tâches : unité d'exécution](scenarios/02-taches-unite-execution.md) · [Réponse](reponses/02-taches-unite-execution.md)
+
+---
+
 **Suite** : [Leçon 3 – Files d'attente (queues)](03-files-attente.md)

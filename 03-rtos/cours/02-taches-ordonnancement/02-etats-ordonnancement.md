@@ -51,4 +51,10 @@ Si plusieurs tâches sont **Ready** avec la **même** priorité, FreeRTOS les ex
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – États et ordonnancement](scenarios/02-etats-ordonnancement.md) · [Réponse](reponses/02-etats-ordonnancement.md)
+
+---
+
 **Suite** : [Leçon 3 – vTaskDelay et tick](03-vtaskdelay-tick.md)

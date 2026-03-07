@@ -84,4 +84,10 @@ En incluant le bon header et en utilisant ces noms, le code reste lisible et coh
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Headers CMSIS](scenarios/04-headers-cmsis.md) · [Réponse](reponses/04-headers-cmsis.md)
+
+---
+
 **Suite** : [Leçon 5 – Champs multi-bits et bonnes pratiques](05-champs-bonnes-pratiques.md)

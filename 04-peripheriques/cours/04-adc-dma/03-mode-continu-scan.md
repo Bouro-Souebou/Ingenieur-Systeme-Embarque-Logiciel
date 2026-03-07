@@ -16,4 +16,12 @@ En **scan**, on définit une **liste de canaux** (registres SQR1, SQR2, SQR3 sur
 
 Acquisition **périodique** de plusieurs capteurs : configurer **scan** (canaux temp, Vbat, courant), **continu** + **trigger timer** (ex. 100 Hz) pour lancer une séquence toutes les 10 ms, et **DMA** pour écrire les résultats dans un buffer (un mot par canal). Une interruption en **fin de séquence** ou **demi-buffer** signale qu'on peut traiter les données.
 
+---
+
+## Tester sa compréhension
+
+→ [Scénario – Mode continu et scan](scenarios/03-mode-continu-scan.md) · [Réponse](reponses/03-mode-continu-scan.md)
+
+---
+
 **Suite** : [Leçon 4 – DMA avec ADC](04-dma-adc.md)

@@ -94,4 +94,10 @@ Ou avec ODR : `REG(GPIOA_ODR) |= (1u << 5);` et `REG(GPIOA_ODR) &= ~(1u << 5);`.
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Configurer une sortie](scenarios/03-configurer-sortie.md) · [Réponse](reponses/03-configurer-sortie.md)
+
+---
+
 **Suite** : [Leçon 4 – Headers CMSIS et fabricant](04-headers-cmsis.md)

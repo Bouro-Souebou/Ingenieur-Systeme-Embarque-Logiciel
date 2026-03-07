@@ -84,4 +84,10 @@ Si tu passes un pointeur vers un **TaskHandle_t**, FreeRTOS y écrit le **handle
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Création de tâches](scenarios/01-creation-taches.md) · [Réponse](reponses/01-creation-taches.md)
+
+---
+
 **Suite** : [Leçon 2 – États et ordonnancement préemptif](02-etats-ordonnancement.md)

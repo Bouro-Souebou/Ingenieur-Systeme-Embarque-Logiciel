@@ -35,4 +35,12 @@ Consulter le datasheet du composant pour l'ordre des octets et les adresses.
 - **Write registre** : START, adresse(W), adresse_reg, data, STOP.
 - **Read registre** : START, adresse(W), adresse_reg, Repeated START, adresse(R), read + NACK + STOP.
 
+---
+
+## Tester sa compréhension
+
+→ [Scénario – I2C : configuration et transactions](scenarios/03-i2c-configuration-transactions.md) · [Réponse](reponses/03-i2c-configuration-transactions.md)
+
+---
+
 **Suite** : [Leçon 4 – I2C : erreurs et robustesse](04-i2c-erreurs-robustesse.md)

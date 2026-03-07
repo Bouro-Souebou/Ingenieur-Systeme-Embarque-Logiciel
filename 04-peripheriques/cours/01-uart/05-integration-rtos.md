@@ -39,5 +39,11 @@ Deux approches possibles :
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Intégration RTOS](scenarios/05-integration-rtos.md) · [Réponse](reponses/05-integration-rtos.md)
+
+---
+
 **Fin du cours UART.**  
 Retour à la [vue d'ensemble](README.md) ou passage au cours [SPI et I2C](../../02-spi-i2c/README.md).

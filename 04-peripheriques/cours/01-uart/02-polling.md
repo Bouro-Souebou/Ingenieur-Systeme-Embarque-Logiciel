@@ -65,4 +65,10 @@ La boucle **bloque** tant qu'aucun caractère n'est reçu. Si aucun caractère n
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Envoi et réception en polling](scenarios/02-polling.md) · [Réponse](reponses/02-polling.md)
+
+---
+
 **Suite** : [Leçon 3 – Mode interruption](03-mode-interruption.md)

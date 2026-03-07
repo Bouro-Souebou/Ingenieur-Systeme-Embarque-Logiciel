@@ -24,4 +24,12 @@ Utile pour mesure de fréquence (encodeur, signal IR, capteur à impulsion).
 
 GPIO en **entrée** (alternate pour le timer) ; timer en mode **capture** sur le canal ; **source** de déclenchement = broche TIx ; **interruption** ou DMA sur événement capture. Consulter le Reference Manual pour les bits exacts (CCxS, ICx, polarité).
 
+---
+
+## Tester sa compréhension
+
+→ [Scénario – Input capture](scenarios/04-input-capture.md) · [Réponse](reponses/04-input-capture.md)
+
+---
+
 **Suite** : [Leçon 5 – Bonnes pratiques](05-bonnes-pratiques.md)

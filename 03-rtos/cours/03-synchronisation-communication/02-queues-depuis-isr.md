@@ -60,4 +60,10 @@ En ISR, **ne jamais** appeler les fonctions **sans** suffixe FromISR pour les ob
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Queues depuis une ISR](scenarios/02-queues-depuis-isr.md) · [Réponse](reponses/02-queues-depuis-isr.md)
+
+---
+
 **Suite** : [Leçon 3 – Sémaphores binaires et à compteur](03-semaphores-binaires-compteur.md)

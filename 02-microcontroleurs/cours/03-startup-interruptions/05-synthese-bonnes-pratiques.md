@@ -52,8 +52,7 @@ Avec les **interruptions**, tu peux réagir à des événements (bouton, UART, t
 
 ## Tester sa compréhension
 
-- **Scénarios** (NVIC, ISR, table des vecteurs, HardFault) : [scenarios/isr-activation.md](scenarios/isr-activation.md).
-- **Éléments de réponse** : [reponses/isr-activation.md](reponses/isr-activation.md).
+→ [Scénario – Synthèse et bonnes pratiques](scenarios/05-synthese-bonnes-pratiques.md) · [Réponse](reponses/05-synthese-bonnes-pratiques.md)
 
 ---
 

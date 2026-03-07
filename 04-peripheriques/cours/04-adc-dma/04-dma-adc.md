@@ -26,4 +26,12 @@ En **double buffering** : on traite la première moitié du buffer pendant que l
 
 Le **débit** (échantillons/s) = fréquence de conversion × nombre de canaux en scan. S'assurer que le **traitement** (ou la copie) peut suivre : taille de buffer suffisante et interruption traitée assez vite. Sinon le buffer déborde (données écrasées) ou le DMA s'arrête.
 
+---
+
+## Tester sa compréhension
+
+→ [Scénario – DMA avec ADC](scenarios/04-dma-adc.md) · [Réponse](reponses/04-dma-adc.md)
+
+---
+
 **Suite** : [Leçon 5 – Bonnes pratiques](05-bonnes-pratiques.md)

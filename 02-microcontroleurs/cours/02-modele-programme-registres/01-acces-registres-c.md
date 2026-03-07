@@ -64,4 +64,10 @@ Sur Cortex-M, beaucoup de registres sont **32 bits**. Certains blocs ont des reg
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Accès aux registres](scenarios/01-acces-registres-c.md) · [Réponse](reponses/01-acces-registres-c.md)
+
+---
+
 **Suite** : [Leçon 2 – Exemple : le bloc GPIO](02-exemple-gpio.md)

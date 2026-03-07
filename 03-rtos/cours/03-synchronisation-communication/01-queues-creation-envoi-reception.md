@@ -78,4 +78,10 @@ if (xQueueReceive(q_uart, &byte, pdMS_TO_TICKS(100)) == pdPASS) {
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Queues : création, envoi, réception](scenarios/01-queues-creation.md) · [Réponse](reponses/01-queues-creation.md)
+
+---
+
 **Suite** : [Leçon 2 – Queues depuis une ISR (FromISR)](02-queues-depuis-isr.md)

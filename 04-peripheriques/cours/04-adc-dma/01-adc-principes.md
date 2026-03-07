@@ -24,4 +24,12 @@ Selon l'application : one-shot sur demande (SWSTART) ou conversions **périodiqu
 
 **Résolution** : 12 bits courant sur STM32 (0–4095). Plus N est grand, plus la quantification est fine. **Vref** : souvent Vdd ou une broche Vref+ ; la plage de mesure est 0–Vref. Pour des signaux hors plage, utiliser un **étage de conditionnement** (ampli, diviseur).
 
+---
+
+## Tester sa compréhension
+
+→ [Scénario – ADC : principes](scenarios/01-adc-principes.md) · [Réponse](reponses/01-adc-principes.md)
+
+---
+
 **Suite** : [Leçon 2 – Conversion one-shot](02-conversion-one-shot.md)

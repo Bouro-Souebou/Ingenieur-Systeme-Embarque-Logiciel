@@ -35,4 +35,8 @@ Ce sous-dossier contient le cours **Synchronisation et communication** : files d
 
 ---
 
+**Tester sa compréhension** : [Scénarios](scenarios/README.md) et [Réponses](reponses/README.md).
+
+---
+
 **Commencer par** : [01 – Queues : création, envoi et réception](01-queues-creation-envoi-reception.md)

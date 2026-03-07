@@ -34,4 +34,8 @@ Ce sous-dossier contient le cours **Concepts RTOS et FreeRTOS** : pourquoi utili
 
 ---
 
+**Tester sa compréhension** : [Scénarios](scenarios/README.md) et [Réponses](reponses/README.md).
+
+---
+
 **Commencer par** : [01 – Pourquoi un RTOS ?](01-pourquoi-rtos.md)

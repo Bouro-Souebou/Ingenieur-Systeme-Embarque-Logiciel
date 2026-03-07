@@ -43,5 +43,11 @@
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Comparaison et choix](scenarios/05-comparaison-choix.md) · [Réponse](reponses/05-comparaison-choix.md)
+
+---
+
 **Fin du cours SPI et I2C.**  
 Retour à la [vue d'ensemble](README.md) ou passage au cours [Timers, PWM et capture](../../03-timers-pwm/README.md).

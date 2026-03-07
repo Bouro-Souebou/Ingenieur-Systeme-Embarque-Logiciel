@@ -47,4 +47,10 @@ Sur les STM32, chaque périphérique (dont USART1, USART2) est alimenté par une
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Paramètres et configuration](scenarios/01-parametres-configuration.md) · [Réponse](reponses/01-parametres-configuration.md)
+
+---
+
 **Suite** : [Leçon 2 – Envoi et réception en polling](02-polling.md)

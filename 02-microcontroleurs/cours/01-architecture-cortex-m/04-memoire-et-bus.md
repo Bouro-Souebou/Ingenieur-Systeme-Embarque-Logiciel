@@ -69,4 +69,10 @@ Pour connaître les adresses exactes de ton MCU :
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Mémoire et bus](scenarios/memoire-bus.md) · [Réponse](reponses/memoire-bus.md)
+
+---
+
 **Suite** : [Leçon 5 – NVIC et vecteurs d'interruption](05-nvic-vecteurs.md)

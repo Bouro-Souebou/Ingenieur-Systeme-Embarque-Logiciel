@@ -57,4 +57,10 @@ Une **ISR** ne doit **jamais** bloquer (pas d'attente avec timeout long). FreeRT
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Files d'attente](scenarios/03-files-attente.md) · [Réponse](reponses/03-files-attente.md)
+
+---
+
 **Suite** : [Leçon 4 – Sémaphores et mutex : vue d'ensemble](04-semaphores-mutex-vue-ensemble.md)

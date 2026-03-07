@@ -66,4 +66,10 @@ Reset matériel
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Séquence au reset](scenarios/01-sequence-reset.md) · [Réponse](reponses/01-sequence-reset.md)
+
+---
+
 **Suite** : [Leçon 2 – Le fichier startup](02-fichier-startup.md)

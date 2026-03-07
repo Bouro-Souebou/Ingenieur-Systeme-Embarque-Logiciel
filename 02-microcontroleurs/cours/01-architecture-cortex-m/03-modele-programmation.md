@@ -67,4 +67,10 @@ Le détail se trouve dans le *ARMv7-M Architecture Reference Manual* ou le *Cort
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Modèle de programmation](scenarios/03-modele-programmation.md) · [Réponse](reponses/03-modele-programmation.md)
+
+---
+
 **Suite** : [Leçon 4 – Mémoire et bus](04-memoire-et-bus.md)

@@ -55,6 +55,12 @@ Avec le RTOS, tu peux structurer l'application en **tâches** (acquisition, comm
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Bonnes pratiques](scenarios/05-bonnes-pratiques.md) · [Réponse](reponses/05-bonnes-pratiques.md)
+
+---
+
 **Fin du cours Synchronisation et communication.**  
 Retour à la [vue d'ensemble](README.md) du module RTOS ou au [README principal](../../README.md) du parcours.  
 → **Module suivant** : [04 – Périphériques](../../../04-peripheriques/README.md).

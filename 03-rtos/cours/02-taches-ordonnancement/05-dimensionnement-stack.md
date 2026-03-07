@@ -47,5 +47,11 @@ Quand un overflow est détecté, le **hook** **vApplicationStackOverflowHook** e
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Dimensionnement stack](scenarios/05-dimensionnement-stack.md) · [Réponse](reponses/05-dimensionnement-stack.md)
+
+---
+
 **Fin du cours Tâches et ordonnancement.**  
 Retour à la [vue d'ensemble](README.md) ou passage au cours [Synchronisation et communication](../../03-synchronisation-communication/README.md).

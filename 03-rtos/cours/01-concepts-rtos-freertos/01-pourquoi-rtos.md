@@ -69,4 +69,10 @@ Pour un **très petit** système (une LED, un seul capteur, pas de contrainte te
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Pourquoi un RTOS ?](scenarios/01-pourquoi-rtos.md) · [Réponse](reponses/01-pourquoi-rtos.md)
+
+---
+
 **Suite** : [Leçon 2 – Tâches : unité d'exécution](02-taches-unite-execution.md)

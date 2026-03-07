@@ -69,4 +69,10 @@ Si tu actives l’IRQ avant d’avoir configuré le périphérique (ou si le pé
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Activer une interruption](scenarios/isr-activation.md) · [Réponse](reponses/isr-activation.md)
+
+---
+
 **Suite** : [Leçon 5 – Synthèse et bonnes pratiques](05-synthese-bonnes-pratiques.md)

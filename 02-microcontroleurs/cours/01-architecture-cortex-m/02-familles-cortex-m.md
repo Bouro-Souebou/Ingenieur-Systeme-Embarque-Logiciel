@@ -84,4 +84,10 @@ Chaque famille a un **pipeline** plus ou moins long, une **FPU** (unité flottan
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Familles Cortex-M](scenarios/02-familles-cortex-m.md) · [Réponse](reponses/02-familles-cortex-m.md)
+
+---
+
 **Suite** : [Leçon 3 – Modèle de programmation : registres](03-modele-programmation.md)

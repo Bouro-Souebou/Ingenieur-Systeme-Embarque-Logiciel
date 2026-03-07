@@ -51,4 +51,10 @@ Un **buffer circulaire** est un tableau avec deux **indices** : **head** (où on
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – Mode interruption](scenarios/03-mode-interruption.md) · [Réponse](reponses/03-mode-interruption.md)
+
+---
+
 **Suite** : [Leçon 4 – DMA avec UART (optionnel)](04-dma-uart.md)

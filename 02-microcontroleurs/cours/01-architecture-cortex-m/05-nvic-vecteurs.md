@@ -73,7 +73,7 @@ Comme vu dans le module **Temps réel** : le **handler** (ISR) doit être **cour
 
 ## Tester sa compréhension
 
-- **Scénarios** : [scenarios/README.md](scenarios/README.md) · **Réponses** : [reponses/README.md](reponses/README.md).
+→ [Scénario – NVIC et vecteurs](scenarios/nvic-vecteurs.md) · [Réponse](reponses/nvic-vecteurs.md)
 
 ---
 

@@ -24,4 +24,12 @@ En **interruption** : activer l'IT EOC ; dans l'**ISR**, lire DR et stocker dans
 
 V_tension = (valeur_lue × Vref) / (2^N - 1). Ex. 12 bits, Vref = 3,3 V : valeur 2048 → 3,3 × 2048 / 4095 ≈ 1,65 V.
 
+---
+
+## Tester sa compréhension
+
+→ [Scénario – Conversion one-shot](scenarios/02-conversion-one-shot.md) · [Réponse](reponses/02-conversion-one-shot.md)
+
+---
+
 **Suite** : [Leçon 3 – Mode continu et scan](03-mode-continu-scan.md)

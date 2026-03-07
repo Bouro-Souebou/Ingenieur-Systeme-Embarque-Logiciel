@@ -34,4 +34,10 @@ Les résistances de **pull-up** (typ. 4,7 kΩ vers Vcc) sont **nécessaires** po
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – I2C : erreurs et robustesse](scenarios/04-i2c-erreurs-robustesse.md) · [Réponse](reponses/04-i2c-erreurs-robustesse.md)
+
+---
+
 **Suite** : [Leçon 5 – Comparaison et choix](05-comparaison-choix.md)

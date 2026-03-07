@@ -18,4 +18,12 @@ Le **SysTick** est un timer **cœur** (pas un périphérique du fabricant). Il e
 
 Si ton projet utilise **FreeRTOS** (ou un autre RTOS qui prend le SysTick), **ne pas** reconfigurer le SysTick pour un autre usage (ex. délai custom) sans désactiver le RTOS. Sinon, l'ordonnanceur ne reçoit plus ses ticks et le système se bloque. Pour des timers applicatifs (PWM, capture, délais), utiliser les **timers périphériques** (TIM1, TIM2, etc.) du MCU.
 
+---
+
+## Tester sa compréhension
+
+→ [Scénario – SysTick](scenarios/02-systick.md) · [Réponse](reponses/02-systick.md)
+
+---
+
 **Suite** : [Leçon 3 – PWM : fréquence et rapport cyclique](03-pwm-frequence-rapport.md)

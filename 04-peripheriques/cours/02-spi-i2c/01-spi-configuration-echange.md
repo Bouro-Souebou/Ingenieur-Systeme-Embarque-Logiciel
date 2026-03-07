@@ -54,4 +54,10 @@ Le débit SPI est réglé par un **prescaler** (diviseur) par rapport à l'horlo
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – SPI : configuration et échange](scenarios/01-spi-configuration-echange.md) · [Réponse](reponses/01-spi-configuration-echange.md)
+
+---
+
 **Suite** : [Leçon 2 – SPI : bonnes pratiques](02-spi-bonnes-pratiques.md)

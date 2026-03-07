@@ -23,5 +23,13 @@ La **résolution** du PWM (nombre de pas de rapport cyclique) = ARR+1. Ex. ARR =
 - **PWM** : ARR = période, CCR = rapport cyclique ; broche en alternate.
 - **Capture** : enregistrer le compteur sur un front ; mesurer largeur d'impulsion ou période.
 
+---
+
+## Tester sa compréhension
+
+→ [Scénario – Bonnes pratiques](scenarios/05-bonnes-pratiques.md) · [Réponse](reponses/05-bonnes-pratiques.md)
+
+---
+
 **Fin du cours Timers, PWM et capture.**  
 Retour à la [vue d'ensemble](README.md) ou passage au cours [ADC et DMA](../../04-adc-dma/README.md).

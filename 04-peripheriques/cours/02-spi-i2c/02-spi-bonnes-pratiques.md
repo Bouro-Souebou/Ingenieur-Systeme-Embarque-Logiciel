@@ -41,4 +41,10 @@ Consulter le **datasheet** du composant pour l'ordre exact (certains attendent 8
 
 ---
 
+## Tester sa compréhension
+
+→ [Scénario – SPI : bonnes pratiques](scenarios/02-spi-bonnes-pratiques.md) · [Réponse](reponses/02-spi-bonnes-pratiques.md)
+
+---
+
 **Suite** : [Leçon 3 – I2C : configuration et transactions](03-i2c-configuration-transactions.md)
