@@ -1,17 +1,27 @@
-# TP – Microcontrôleurs
+# TP – Microcontrôleurs (STM32 NUCLEO F446RE)
 
-## Fichiers
+Travaux pratiques progressifs : **prise en main des outils** puis programmation **bare-metal** sur NUCLEO-F446RE.
 
-- **blink_bare_metal.c** : allumage d’une LED en accédant directement aux registres RCC et GPIO (template STM32F4). Adapter les adresses et les noms pour ta carte (voir Reference Manual du MCU).
+## Cible
 
-## À faire
+- **MCU** : STM32F446RET6 (Cortex-M4). **LED LD2** : PA5. **Bouton B1** : PC13 (actif à 0).
+- **Programmation** : ST-Link intégré (USB).
 
-1. Créer un projet (STM32CubeIDE ou Makefile + arm-none-eabi-gcc) et inclure ce fichier comme `main.c` (ou l’intégrer à ton projet).
-2. Vérifier la broche LED sur le schéma de la carte (souvent PA5 sur Nucleo).
-3. Compiler, flasher, lancer : la LED doit clignoter.
-4. **Bonus** : ajouter une interruption EXTI sur un bouton utilisateur ; dans l’ISR, inverser l’état de la LED (variable `volatile` + flag si tu fais le traitement dans `main`).
+## Ordre des TP
 
-## Références
+| TP | Fichier / Dossier | Objectif |
+|----|-------------------|----------|
+| 1 | [01-outils-prise-en-main.md](01-outils-prise-en-main.md) | IDE, projet, build, flash, debug |
+| 2 | [02-blink-led/](02-blink-led/) | Clignoter la LED (RCC, GPIO) |
+| 3 | [03-bouton-led/](03-bouton-led/) | Lire le bouton, piloter la LED (polling) |
+| 4 | [04-interruption-exti/](04-interruption-exti/) | Bouton en interruption (EXTI, ISR) |
 
-- Reference Manual du MCU : chapitres RCC, GPIO.
-- Datasheet de la carte : numéro de broche de la LED et du bouton.
+Chaque TP réutilise le projet ou une copie du projet. L’ancien fichier **blink_bare_metal.c** à la racine de `tp/` reste disponible ; la version à jour pour la F446RE est **02-blink-led/main.c**.
+
+## Chaîne de développement
+
+Voir : [../../ressources/chaine-compilation-deploiement.md](../../ressources/chaine-compilation-deploiement.md)
+
+## Références cours
+
+- Cours 01 (architecture Cortex-M), 02 (registres, GPIO), 03 (startup, interruptions).

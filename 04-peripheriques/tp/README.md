@@ -1,5 +1,17 @@
 # TP – Périphériques
 
+## Fichiers squelette (templates)
+
+Chaque thème a un fichier `.c` à compléter (commentaires « A FAIRE ») :
+
+| Fichier | Thème | Objectif |
+|---------|--------|----------|
+| `uart_echo_template.c` | UART | Config USART, bannière, echo RX → TX |
+| `i2c_sensor_template.c` | I2C | Lire capteur/EEPROM I2C, afficher UART |
+| `spi_sensor_template.c` | SPI | Lire/écrire périphérique SPI |
+| `pwm_led_template.c` | PWM | PWM timer, varier rapport cyclique |
+| `adc_dma_template.c` | ADC + DMA | Acquisition DMA, moyenne ou envoi UART |
+
 ## Ordre conseillé
 
 1. **UART** : configurer USART1 (ou 2), envoyer une chaîne au démarrage, recevoir des caractères et les renvoyer (echo). Puis : réception en interruption + queue FreeRTOS vers une tâche qui parse des commandes (ex. `LED ON`, `LED OFF`).

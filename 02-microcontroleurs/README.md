@@ -17,7 +17,7 @@ Les cours se trouvent dans le dossier **[cours/](cours/)**. Chaque thème est d�
 
 ## Applications pratiques
 
-- **tp/** : manipulation des registres, blink sans HAL, première ISR.
+- **tp/** : série de TP progressifs pour **STM32 NUCLEO F446RE** : prise en main des outils (IDE, build, flash, debug), blink LED (registres), bouton + LED (polling), interruption EXTI (ISR). Voir [tp/README.md](tp/README.md).
 - **projet/** : application bare-metal (ex. chronomètre avec bouton et affichage).
 
 Pour comprendre **comment passer du code à la carte** (compilation, édition de liens, flash, débogage), voir le document **[Chaîne de compilation et déploiement](../ressources/chaine-compilation-deploiement.md)** dans `ressources/`.
